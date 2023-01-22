@@ -1,6 +1,8 @@
 function Home() {
     return (
-        <div style={{ heigh: 2000 }}>Home</div>
+        <h1
+            // style={{ heigh: 2000 }}
+        >Home</h1>
     )
 }
 

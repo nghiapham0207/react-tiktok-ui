@@ -1,6 +1,6 @@
 function Following() {
     return (
-        <div>Following</div>
+        <h1>Following</h1>
     )
 }
 
